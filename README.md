@@ -1,6 +1,6 @@
 # APIs para um sistema de ATS
 
-API Web com o ASP.NET Core 6.0 com MongoDB com CRUD de candidatos e vagas para um sistema de ATS.
+API Web com o ASP.NET Core 6.0 com MongoDB de CRUD de candidatos e vagas para um sistema de ATS.
 
 **Pré-requisito**
 Ter o MongoDB instalado. A API se conecta ao MongoDB através da porta padrão **27017**. Caso o MongoDB utilize outra porta, altere o arquivo **appsettings.json**, informando a porta na propriedade **"ConnectionString"**.
