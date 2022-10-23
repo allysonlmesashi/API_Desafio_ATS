@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiATS", "ApiATS\ApiATS.csproj", "{AC3D8FA5-3990-4D76-AD33-3C01AB9D9520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC3D8FA5-3990-4D76-AD33-3C01AB9D9520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3D8FA5-3990-4D76-AD33-3C01AB9D9520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3D8FA5-3990-4D76-AD33-3C01AB9D9520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3D8FA5-3990-4D76-AD33-3C01AB9D9520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9685F34-F554-48D2-AE3E-CA73227FA8AE}
+	EndGlobalSection
+EndGlobal
